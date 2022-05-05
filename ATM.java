@@ -1,5 +1,5 @@
 
-public class ATM44 {
+public class ATM {
     public int countBanknotes(int sum){
             int count = 0;
             int i = 10000;
